@@ -13,7 +13,7 @@ class SongList extends React.Component{
                             Select
                         </button>
                     </div>
-                    <div className='content'>
+                      <div className='content'>
                         {song.title}  
                     </div>
                 </div>
